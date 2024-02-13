@@ -1,7 +1,9 @@
 ---
 id: fresh-linux
 aliases: []
-tags: []
+tags:
+  - Linux
+publish: true
 title: Fresh Linux Todo List
 ---
 
