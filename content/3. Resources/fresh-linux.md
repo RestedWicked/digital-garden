@@ -57,3 +57,7 @@ title: Fresh Linux Todo List
 
 - Install Neovim
 
+```rust
+println!("Hello");
+```
+
