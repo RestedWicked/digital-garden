@@ -39,6 +39,7 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  font-size: 1.25rem;
   color: var(--darkgray);
 }
 
@@ -319,7 +320,7 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: 2.25rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
@@ -381,7 +382,7 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    font-size: 1.2rem;
     counter-reset: line;
     counter-increment: line 0;
     display: grid;

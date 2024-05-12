@@ -1,10 +1,11 @@
 ---
-id: fresh-linux
-aliases: []
+id: dotfiles
+aliases: 
 tags:
   - Linux
+  - Resources
 publish: true
-title: Fresh Linux Todo List
+title: Dotfiles Install Guide
 ---
 
 - Install Git (Might be included)
@@ -56,8 +57,3 @@ title: Fresh Linux Todo List
 - Install Tmux
 
 - Install Neovim
-
-```rust
-println!("Hello");
-```
-
