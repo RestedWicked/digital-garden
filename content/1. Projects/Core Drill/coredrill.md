@@ -7,24 +7,25 @@ tags:
   - MetroidVania
   - Projects
   - DesignDocument
+  - CoreDrill
 publish: true
 title: Project CoreDrill Design Document
 ---
-Name: TBD
+Name: Core of the Automata
 
 Release Date: TBD
 
 ## Introduction
 ### Game Summary
-CoreDrill is a MetroidVania where you traverse a mysterious planet in a mech suit.
+Core of the Automata is a MetroidVania where you traverse a mysterious planet in a mech suit.
 ### Inspiration
 __Metroid__: In metroid you start with nothing, you are alone without guidance. But actually you are being guided by the level design, you arrive at an area where you can't make progress so you turn back, and look somewhere else. Eventually you unlock a new ability or piece of knowledge that lets you explore new areas.
 
-__Gurren Lagann__: Gurren Lagann isn't a game, but it very much inspired the narrative and gameplay of CoreDrill, the project name CoreDrill is something I stole from Gurren Lagann. In Gurren Lagann, the main character Simon discovers a mech underground, which he discovers and unlocks the hidden potential of, throughout the series.
+__Gurren Lagann__: Gurren Lagann isn't a game, but it very much inspired the narrative and gameplay of Core of the Automata, the project name CoreDrill is something I stole from Gurren Lagann. In Gurren Lagann, the main character Simon discovers a mech underground, which he discovers and unlocks the hidden potential of, throughout the series.
 
 __Xenoblade Chronicles__: This one is also more of a narrative inspiration. But to go into detail would be too spoilery here so will be elaborated in the story document.
 ### Player Experience
-In CoreDrill the player will explore down to the center of the planet, unlocking gear and abilities for themselves and their mech. The game will slowly build up to a big payoff, with extra post game content.
+In Core of the Automata the player will explore down to the center of the planet, unlocking gear and abilities for themselves and their mech. The game will slowly build up to a big payoff, with extra post game content.
 ### Platform
 The game will be developed for Windows and PC, but the demo will be developed for Web as well.
 ### Development Software
@@ -82,3 +83,5 @@ __Gamepad__: Dpad or Left Joystick for movement plus buttons depending on the ac
 | #   | Assignment      | Type  | Status      | Finish By | Notes |
 | --- | --------------- | ----- | ----------- | --------- | ----- |
 | 1   | Design Document | Other | In progress |           |       |
+| 2   | Lore Bible      | Other | In Progress |           |       |
+| 3   | Dev Art         | Art   | Not Started |           |       |
